@@ -76,8 +76,8 @@ p{
     
         display: flex;
         flex-direction: column;
-        min-height: 100vh;
-        overflow: hidden
+        min-height: 95vh;
+        /* overflow: hidden */
     }
    
 
