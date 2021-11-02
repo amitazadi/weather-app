@@ -7,7 +7,8 @@ body {
 
     display: flex;
     flex-direction: column;
-    min-height: 100vh
+    min-height: 100vh;
+    overflow: hidden
 }
 
 .main-content {
@@ -75,12 +76,10 @@ p{
     
         display: flex;
         flex-direction: column;
-        min-height: 100vh
+        min-height: 100vh;
+        overflow: hidden
     }
-    
-    .main-content {
-        flex-grow: 1;
-    }
+   
 
     header {
         margin-top: 16px;
